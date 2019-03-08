@@ -1,6 +1,6 @@
 # Viikko 1:
 
-* Palautus 1: **Lauantaina 19.1. klo 23:59**
+* Palautus 1: **Lauantaina 16.3. klo 23:59**
     * Aihe, käytettävä ohjelmointikieli ja työn laajuus päätetty.
         * Juttele tarvittaessa ohjaajan kanssa. Jos toteutat jonkin valmiista aiheista Javalla ja kaikki on selvää, voit siirtyä suoraan määrittelydokumentin kirjoittamiseen. Jos haluat toteuttaa työn täysin omasta aiheesta tai erikoisemmalla kielellä, kannattaa asiasta jutella ennen palautuksen tekemistä.
     * Dokumentaatio: Määrittelydokumentti valmis.
@@ -14,7 +14,7 @@
 
 # Viikko 2:
 
-* Palautus 2: **Perjantaina 25.1. klo 23:59**
+* Palautus 2: **Perjantaina 22.3. klo 23:59**
     * [Dokumentaatio](/sivut/dokumentaatio.md): Kirjoitettu koodi on selkeää ja kommentoitua (esim. Javalla tehdyssä työssä Javadoc-kommentit).
     * Viikkoraportti numero 2: ks. [Palautukset](/sivut/palautukset.md)
     * Ohjelma: Aloitettu ydinalueen toteutus käyttäen tarvittaessa esim. Javan valmiita tietorakenteita (ArrayList, HashMap yms.). Nämä korvataan myöhemmin omilla tietorakenteilla, mutta useissa tapauksissa ohjelman toteutus on helpompi aloittaa jostain muusta kuin tietorakenteista.
@@ -23,7 +23,7 @@
 
 # Viikko 3:
 
-* Palautus 3: **Perjantaina 1.2. klo 23:59**
+* Palautus 3: **Perjantaina 29.3. klo 23:59**
     * [Dokumentaatio](/sivut/dokumentaatio.md): Kirjoitettu koodi selkeää ja kommentoitua.
     * Viikkoraportti numero 3
     * Ohjelma: Ohjelman ydinalue edennyt, aloitettu mahdollisesti jo omien tietorakenteiden toteutus.
@@ -35,7 +35,7 @@
 * Ohjeet vertaisarviointiin [täällä](/sivut/vertaisarvioinnit.md)
 * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](/sivut/issuet.md)
 
-* Palautus 4: **Perjantaina 8.2. klo 23:59**
+* Palautus 4: **Perjantaina 5.4. klo 23:59**
     * [Dokumentaatio](/sivut/dokumentaatio.md): Koodi kommentoitua. Aloitettu kirjoittamaan toteutus- ja testausdokumentaatiota.
     * Viikkoraportti numero 4
     * Ohjelma: Ohjelman ydintoiminta valmis. Omia tietorakenteita aloitettu.
@@ -45,7 +45,7 @@
 
 * Toiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://studies.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin DL 6.**
 
-* Palautus 5: **Perjantaina 15.2. klo 23:59**
+* Palautus 5: **Perjantaina 12.4. klo 23:59**
    * Ensimmäinen vertaisarviointi tehtynä (Löydät linkin katselmoitavaan repoon [labtoolista](https://studies.cs.helsinki.fi/labtool/))
    * [Dokumentaatio](/sivut/dokumentaatio.md): Koodi kommentoitua. Aloitettu kirjoittamaan toteutus- ja testausdokumentaatiota.
    * Viikkoraportti numero 5
@@ -54,7 +54,7 @@
 
 # Viikko 6:
 
-* Palautus 6: **Perjantaina 22.2. klo 23:59**
+* Palautus 6: **Perjantaina 26.4. klo 23:59**
    * **Toinen vertaisarviointi tehtynä** (löydät linkin katselmoitavaan repoon [labtoolista](https://studies.cs.helsinki.fi/labtool/))
    * [Dokumentaatio](/sivut/dokumentaatio.md): Kirjoitettu koodi kommentoitua. Toteutus- ja testausdokumentaatiota kirjoitettu.
    * Viikkoraportti numero 6
@@ -63,13 +63,13 @@
 
 # Demo tilaisuus:
 
-<!-- * Tarkka aika ja paikka varmistuu kurssin kuluessa. -->
-* Mahdolliset tilaisuudet: Keskiviikko 27.2. 14-16 B119, Torstai 7.3. 12-14 CK111
+<!-- * Tarkka aika ja paikka varmistuu kurssin kuluessa. 
+* Mahdolliset tilaisuudet: Keskiviikko 27.2. 14-16 B119, Torstai 7.3. 12-14 CK111-->
 * Mahdollisuus esittää koulun koneelta, mutta aiemmin sen kanssa on ollut ongelmia joten suositeltavaa ottaa oma läppäri.
 * Lyhyt noin 5 minuuttinen esitys ja mahdollisiin kysymyksiin vastailu (riippuen aikataulusta).
 
 
-# LOPULLINEN PALAUTUS: Tenttiviikolla Perjantaina 8.3. klo 23:59
+# LOPULLINEN PALAUTUS: Tenttiviikolla Perjantaina 10.5. klo 23:59
 * **Dokumentaatio:**
     * 100% selkeää ja kommentoitu koodi (jos käytit Javaa, generoi Javadoc ja lisää palautukseen)
     * Valmiit dokumentit:

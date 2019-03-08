@@ -1,6 +1,6 @@
 # Week 1:
 
-* Submission 1: **Saturday 19.1. 23:59**
+* Submission 1: **Saturday 16.3. 23:59**
     * You have a topic, programming language and sense of project scope.
       * You should consult with the course assistant if anything is unclear. If you are using Java and have selected a clearly valid topic you can move on to creating the project specification. If you have a topic you are uncertain about or if you are considering not using Java you should definitely discuss with the course assistant.
     * Documentation: Project specification done.
@@ -14,7 +14,7 @@
 
 # Week 2:
 
-* Submission 2: **Friday 25.1. 23:59**
+* Submission 2: **Friday 22.3. 23:59**
     * [Documentation](dokumentaatio.md): Written code is clear and commented (e.g. Java program contains Javadoc comments).
     * Week 2 report: see [submissions](palautukset.md)
     * Program: Work on implementing the core functionality has been started possibly using library implementations of algorithms and data structures. These will later be replaced with self-made implementations, but in many cases it's easier to use library implementations first.
@@ -23,7 +23,7 @@
 
 # Week 3:
 
-* Submission 3: **Friday 1.2. 23:59**
+* Submission 3: **Friday 29.3. 23:59**
     * [Documentation](dokumentaatio.md): Written code is clear and commented.
     * Week 3 report.
     * Program: Werk on implementing core functionality has continued. Possibly started implementing data structures.
@@ -35,7 +35,7 @@
 * See instructions for code reviews [here](vertaisarvioinnit.md)
 * Remember to enable issues for your repositories. See [enabling issues](issuet.md)
 
-* Submission 4: **Friday 8.2. 23:59**
+* Submission 4: **Friday 5.4. 23:59**
     * [Documentation](dokumentaatio.md): Written code is clear and commented. Started on testing and implementation documentation.
     * Week 4 report.
     * Program: Core functionality completed. Working on implementing data structures.
@@ -45,7 +45,7 @@
 
 * The second round of code reviews will be given out after the week 5 deadline. Check Labtool for a link to the repository to review. **The deadline for the second code review is the same as the week 6 deadline.**
 
-* Submission 5: **Friday 15.2. 23:59**
+* Submission 5: **Friday 12.4. 23:59**
    * **The first code review is completed**. (See [Labtool](https://studies.cs.helsinki.fi/labtool/) for link to repository)
    * [Documentations](dokumentaatio.md): Written code is clear and commented. Started on testing and implementation documentation.
    * Week 5 report.
@@ -54,7 +54,7 @@
 
 # Week 6:
 
-* Submission 6: **Friday 22.2. 23:59**
+* Submission 6: **Friday 26.4. 23:59**
    * **The first code review is completed**. (See [Labtool](https://studies.cs.helsinki.fi/labtool/) for link to repository)
    * [Documentation](dokumentaatio.md): Written code is clear and commented. Mostly done with testing and implementation documentation.
    * Week 6 report.
@@ -63,12 +63,12 @@
 
 # Demo session:
 
-<!-- * The exact time and date will be available later. -->
-* Possible session times: Wednesday 27.2. 14-16 B119, thursday 7.3. 12-14 CK111
+* The exact time and date will be available later.
+<!--* Possible session times: Wednesday 27.2. 14-16 B119, thursday 7.3. 12-14 CK111-->
 * You can either present using the class computer or by using your own laptop. Typically using your own laptop is recommended.
 * A short approximately 5 minute presentation of your project and possibly some questions and answers.
 
-# FINAL DEADLINE: Exam week, Friday 8.3. 23:59
+# FINAL DEADLINE: Exam week, Friday 10.5. 23:59
 * **Documentation:**
     * 100% clear and commented code. (If you are using Java, you should generate the Javadoc files and add or link them to your repository)
     * Done documentation:

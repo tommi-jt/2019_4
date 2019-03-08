@@ -11,7 +11,7 @@ Aiheen voi keksiä itse, tai valita alla olevasta listasta itselleen mielenkiint
 
 * Karttoja reitinhakutöihin löytyy esimerkiksi [Moving AI Lab](http://www.movingai.com/benchmarks/):in sivuilta tai maanminttauslaitoksen karttojen [lataus](http://kartat.kapsi.fi/) sivustolta.
 
-* Myös joukkoliikenteen reitti/aikataulut [https://developers.google.com/transit/gtfs/](https://developers.google.com/transit/gtfs/) ja avoin karttadata
+* Myös joukkoliikenteen reitti/aikataulut [https://developers.google.com/transit/gtfs/](https://developers.google.com/transit/gtfs/) ja avoin karttadata [https://www.openstreetmap.org](https://www.openstreetmap.org) ovat olleet suosittuja.
 
 ## Tiedon tiivistys
 
@@ -23,7 +23,7 @@ Aiheen voi keksiä itse, tai valita alla olevasta listasta itselleen mielenkiint
 
 * Shakki, go, laajennettu risti-nolla jne  ovat hauskoja ja haastavia pelejä. Niitä olisi kiva pelata tietokonetta vastaan, tehtävänäsi on kehittää valitsemallesi pelille tekoäly. Tekoälyn pitää pystyä pelaamaan niin ihmistä kuin itseään vastaan.
 
-* Kivi-sakset-paperi on kaikille tuttu peli. Onnistutko toteuttamaan tekoälyn, joka päihittää ohjaajan? Kun tekoälysi on hyvä voit jatkaa kehitystä ottamalla mukaan vielä kaksi vaihtoehtoa: Lisko ja Spock. http://upload.wikimedia.org/wikipedia/commons/a/ad/Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg sekä http://www.youtube.com/watch?v=x5Q6-wMx-K8
+* Kivi-sakset-paperi on kaikille tuttu peli. Onnistutko toteuttamaan tekoälyn, joka päihittää ohjaajan? Kun tekoälysi on hyvä voit jatkaa kehitystä ottamalla mukaan vielä kaksi vaihtoehtoa: Lisko ja Spock. http://upload.wikimedia.org/wikipedia/commons/a/ad/Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg sekä http://www.youtube.com/watch?v=x5Q6-wMx-K8. Huomaa että tämä aihe on tämä kurssin esitiedoilla aika hankala. Kannattaa ehdottomasti jutella ohjaajan kanssa jos tämä aihe kiinnostaa.
 
 * 15-pelin ratkaisija. Kaikille tuttu 15-peli voi olla haastava ratkaistava. Saatko kehitettyä ohjelman joka ratkaisee pelin kuin pelin? http://en.m.wikipedia.org/wiki/15_puzzle
 

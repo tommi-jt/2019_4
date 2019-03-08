@@ -1,6 +1,6 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Saska Dönges
-% 16.1.2019
+% 13.3.2019
 
 # Ohjaajat
 
@@ -10,7 +10,7 @@
 
 - Telegram-kanava https://t.me/tkttiralabra/
 - IRC-kanava **#tiralabra** @ IRCnet
-- Kurssisivu https://github.com/TiraLabra/2019_3
+- Kurssisivu https://github.com/TiraLabra/2019_4
 
 # Mistä kyse?
 

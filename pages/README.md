@@ -8,25 +8,26 @@
 
 Detailed course timing is available [here](aikataulu.md).
 
-|  Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
-| **3** 14.1.- |  |  |  Mandatory lecture 16-18 B119 |  | guidance:<br/>15-18 BK107 | [DL 1 23:59](aikataulu.md#week-1) |  |
-| **4** 21.1.- |  |  | |  | guidance:<br/>15-18 BK107<br/>[DL 2 23:59](aikataulu.md#week-2) |  |  |
-| **5** 28.1.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 3 23:59](aikataulu.md#week-3) |  |  |
-| **6** 4.2.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 4 23:59](aikataulu.md#week-4) |  |  |
-| **7** 11.2.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 5 23:59](aikataulu.md#week-5) |  |  |
-| **8** 18.2.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 6 23:59](aikataulu.md#week-6) |  |  |
-| **9** 25.2.- |  |  | **Demo #1** <br /> 14-16 B119 |  | guidance:<br/>15-18 BK107 |  |  |
-| **10** 4.3.-  _Exam week_ |  |  |  | **Demo #2** <br /> 12-14 CK111 |  **[Final submission](https://github.com/TiraLabra/2019_3/blob/master/pages/aikataulu.md#final-deadline-exam-week-friday-83-2359)** |  |  |
+| **11** 11.3.- |  |  | Mandatory lecture 16-18 B119 |  | guidance:<br/>15-18 BK107 | [DL 1 23:59](aikataulu.md#viikko-1) |  |
+| **12** 18.3.- |  |  | |  |  guidance:<br/>15-18 BK107<br/>[DL 2 23:59](aikataulu.md#week-2) |  |  |
+| **13** 25.3.- |  |  |  |  |  guidance:<br/>15-18 BK107<br/>[DL 3 23:59](aikataulu.md#week-3) |  |  |
+| **14** 1.4.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 4 23:59](aikataulu.md#week-4) |  |  |
+| **15** 8.4.- |  |  |  |  |  guidance:<br/>15-18 BK107<br/>[DL 5 23:59](aikataulu.md#week-5) |  |  |
+| **16** 15.4.- |  |  |  |  |  |  |  |
+| **17** 22.4.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 6 23:59](aikataulu.md#week-6) |  |  |
+| **18** 29.4.- |  |  |  |  |  |  |  |
+| **19** 6.5.-  _Exam week_ |  |  |  |  | **[Final submission](https://github.com/TiraLabra/2019_3/blob/master/pages/aikataulu.md#final-deadline-exam-week-friday-83-2359)** |  |  |
 
 ## :mega: News
 
- * Time an place for demonstration sessions has been set. A link to a doodle form for registering to a demo session has been snt out to students. Contact a course assistant if you can't make either of the options.
+ <!--* Time an place for demonstration sessions has been set. A link to a doodle form for registering to a demo session has been snt out to students. Contact a course assistant if you can't make either of the options.
  * Doodle link for demo session planning has been sent to registered students. The email address is the one configured in weboodi.
  * First round of code review have been released. Check out labtool for links to repositories to review.
  * Workshop for 8.2. mostly cancelled. Someone may be around for general algorith workshop stuff. If you have lab specific concerns I should be reachable through irc or e-mail.
- * Labtool should now work!
- * The final submission deadline is on Friday 8.3. at 23:59. There are no time extensions available. Good luck on the exam week!
+ * Labtool should now work! -->
+ * The final submission deadline is on Friday 10.5. at 23:59. There are no time extensions available. Good luck on the exam week!
  * If you find typos or other errors on the course pages, please submit a Pull Request with the fix. A bug bounty of 1 course point will be awarded for significant fixes (capped at 1 per student).
 
 ## :notebook: Labtool
@@ -53,10 +54,10 @@ Generally the Telegram and IRC chats are linked (bridged) together, so the cours
 
 ## Demonstration
 
-* Time and place: Demo #1: Wednesday 27.2. 14-16 B119, Demo #2 Thursday 7.3. 12-14 CK111. <!-- Hopefully a doodle questionnaire will be sent out after the start of the course with potential times. -->
+* <!--Time and place: Demo #1: Wednesday 27.2. 14-16 B119, Demo #2 Thursday 7.3. 12-14 CK111. -->Hopefully a doodle questionnaire will be sent out after the start of the course with potential times.
 * **Mandatory!** Contact the course assistant if you can not make the Demo session. The Demo session is mandatory to get a passing grade!
-* All projects will be loaded onto a presentation machine, which you may use for the demonstration.
-* Alternatively you can present with your own laptop. In this case you may want to arrive early to test that the laptop works properly with the projector.
+* You can present with your own laptop. In this case you may want to arrive early to test that the laptop works properly with the projector.
+* All projects will also be loaded onto a presentation machine, which you may use for the demonstration. However there have been issues with this in the past so presenting with your own laptop is recommended.
 * Approximately (at most) 5 minutes per project.
 * Slides are not required for the presentation and generally not recommended unless you have a specific reason to use them.
 

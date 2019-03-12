@@ -10,7 +10,8 @@ You can either come up with your own topic or pick one from the ones below. The 
 * Note: Just A-star is not a sufficient topic. But you could for instance compare different path finding algorithms.
 
 * Maps for pathfinding can be found at [Moving AI Lab](http://www.movingai.com/benchmarks/) and the [downloads site](http://kartat.kapsi.fi/) for the National Land Survey of Finland.
-* Google maps and open street maps also provide usable data.
+
+* Public transit data [https://developers.google.com/transit/gtfs/](https://developers.google.com/transit/gtfs/) or [https://digitransit.fi/en/developers/](https://digitransit.fi/en/developers/) and open map data [https://www.openstreetmap.org](https://www.openstreetmap.org) have also been popular.
 
 ## Data compression
 
